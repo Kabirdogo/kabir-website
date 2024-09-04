@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Kabir Personal Site</title>
+    <link rel="stylesheet" href="css/styles.css">
+
+ 
+</head>
+         <body>
+         <table cellspacing="20">
+            <tr>
+                <td><img src="data:image/jpeg;base64,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" alt="Kabir Dogo profile picture"srcset=""></td>
+                <td>
+                    <h1>Kabir Dogo</h1>
+                    <p><em>Web Devoloper Studied at <strong><a href="https://www.appbrewery.co/">The APP Brewery</a><strong>.</em></p>
+            <p>I am IOS and Web Developer.❤️ coffee and juice</p>
+        </tr>
+        </tr>
+        </table>
+        <hr>
+        <h3>Education</h3>
+        <ol>
+            <li>Makera Primary School Funtua</li>
+            <li>New Government Day Secondary School Makera</li>
+            <li>General Hassan Usman Katsina Polytechnic Katsina</li>
+             <li>The Complete 2023 Web Development Bootcamp</li>
+        </ol>
+        <hr>
+        <h3>Work Experience</h3>
+        <table>
+            <thead>
+                <tr>
+                    <th>Dates</th>
+                    <th>Work</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>2013-2014</td>
+                            <td>Lead Developer at Tempo App</td>
+                            </tr>
+                            <tr>
+                                <td>2014</td>
+                                <td>Researcher at Web Developers Program</td>
+                                </tr>
+                                </tbody>
+                                </table>
+                                <hr>
+                                <h3>Skills</h3>
+                                <table>
+                                <tr>
+                                    <td>IOS Development</td>
+                                    <td>⭐⭐⭐⭐</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Web Development</td>
+                                        <td>⭐⭐⭐⭐</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Photography</td>
+                                            <td>⭐⭐</td>
+                                            </tr>
+                                            </table>
+                                            <hr>
+                                            </body>
+                                                </html>
+                                                <a href="hobbies.html">My hobbies</a>
+                                                <a href="contact-me.html">Contact Me</a>
